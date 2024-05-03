@@ -1,0 +1,7 @@
+path: /home/lucas/projects/pipe-counting/dataset
+train: ./train/images
+val: ./test/images
+test:
+
+nc: 1
+names: ['pipe']
